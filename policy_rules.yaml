@@ -1,0 +1,14 @@
+# Automated Loan Approval Agent policy file
+#
+# The Project Requirement Document requires eligibility and compliance rules
+# to be supplied through a policy engine and identifies this file name.
+#
+# The following are not specified:
+# - YAML schema
+# - eligibility rules
+# - compliance rules
+# - threshold values
+# - rule priorities
+# - conflict-resolution behavior
+#
+# No rules are inserted because doing so would introduce assumptions.

@@ -1,0 +1,14 @@
+# Automated Loan Approval Agent explainability configuration
+#
+# The Project Requirement Document requires SHAP-based explainability and
+# identifies this file name.
+#
+# The following are not specified:
+# - SHAP explainer type
+# - background or reference data
+# - feature-name mapping
+# - number of factors to report
+# - output structure
+# - configuration keys
+#
+# No configuration values are inserted because doing so would introduce assumptions.
